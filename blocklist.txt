@@ -1,0 +1,6 @@
+facebook.com
+*.facebook.com
+tiktok.com
+*.tiktok.com
+instagram.com
+*.instagram.com

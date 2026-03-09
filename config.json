@@ -1,0 +1,6 @@
+{
+  "listen": "0.0.0.0:1053",
+  "upstream": "8.8.8.8:53",
+  "policy_file": "blocklist.txt",
+  "timeout_ms": 2000
+}
